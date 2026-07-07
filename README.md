@@ -1,4 +1,4 @@
-# SanskritiSetu - AI-Powered Cultural Learning Platform
+#KNow your Roots - AI-Powered Cultural Learning Platform
 
 An interactive hackathon project that generates engaging AI-powered stories about Indian cultural monuments using OpenAI API.
 
